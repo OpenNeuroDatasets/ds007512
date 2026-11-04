@@ -20,7 +20,7 @@
     "EthicsApprovals": [
         "Comité de Protection des Personnes, ID 2019-A01920-57"
     ],
-    "HowToAcknowledge": "If you make use of the SemReps-8K dataset, please cite the corresponding papers:\n\nNikolaus, M., Mozafari, M., Berry, I., Asher, N., Reddy, L., & VanRullen, R. (2025). Modality-Agnostic Decoding of Vision and Language from fMRI. eLife. https://doi.org/10.7554/eLife.107933\n\nNikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Attention Increases the Spread of Modality-Invariant Information across the Cortex. Imaging Neuroscience.\n\nNikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Leveraging modality-agnostic decoders for decoding of mental imagery. Under review at eNeuro.",
+    "HowToAcknowledge": "If you make use of the SemReps-8K dataset, please cite the corresponding papers:\n\nNikolaus, M., Mozafari, M., Berry, I., Asher, N., Reddy, L., & VanRullen, R. (2025). Modality-Agnostic Decoding of Vision and Language from fMRI. eLife. https://doi.org/10.7554/eLife.107933\n\nNikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Attention Increases the Spread of Modality-Invariant Information across the Cortex. Imaging Neuroscience. \nhttps://doi.org/10.1162/IMAG.a.1454\n\nNikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Leveraging modality-agnostic decoders for decoding of mental imagery. Under review at eNeuro.",
     "HEDVersion": "8.0.0",
     "DatasetDOI": "doi:10.18112/openneuro.ds007512.v1.0.3"
 }
