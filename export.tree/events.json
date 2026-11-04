@@ -1,0 +1,40 @@
+{
+    "trial_type": {
+        "LongName": "Trial type",
+        "Description": "Modality of stimulus presentation",
+        "Levels": {
+	    "-1": "Fixation whitescreen",
+            "0": "Fixation",
+	    "10": "Imagery",
+	    "11": "Imagery instruction",
+            "4": "Display of an image with attention to images",
+            "5": "Display of a caption with attention to captions",
+	    "40": "Display of an image with attention to captions",
+	    "50": "Display of a caption with attention to images"
+        }
+    },
+    "condition_name": {
+        "LongName": "Condition Name",
+        "Description": "COCO ID of the stimulus that is displayed. Defaults to 0 for events that do not involve a stimulus presentation."
+    },
+    "stim_name": {
+        "LongName": "Stimulus name",
+        "Description": "Name of the stimulus, which can refer to the image path in case of image presentation, the corrected caption in case of caption presentation, 'Fix' for fixation events, 'ImgInst' for imagery instruction events, or the corresponding caption for the imagery trial (during which the subjects were imagining the previously displayed caption)."
+    },
+    "one_back": {
+        "LongName": "One-back",
+        "Description": "Indicates a one-back target trial.",
+        "Levels": {
+            "0": "The trial is not a one-back target.",
+            "1": "The trial is a one-back target."
+        }
+    },
+    "subj_resp": {
+        "LongName": "Subject response",
+        "Description": "Indicates whether the subject pressed the response button (as instructed for one-back target trials)",
+        "Levels": {
+            "0": "The response button was not pressed",
+            "1": "The response button was pressed"
+        }
+    }
+}
