@@ -48,6 +48,7 @@ https://doi.org/10.7554/eLife.107933
 If you make use of the attention modulation conditions of the SemReps-8K dataset, please cite the corresponding paper:
 
 Nikolaus, M., Mozafari, M., Berry, I., Reddy, L., & VanRullen, R. (2026). Attention Increases the Spread of Modality-Invariant Information across the Cortex. Imaging Neuroscience.
+https://doi.org/10.1162/IMAG.a.1454
 
 If you make use of the imagery conditions of the SemReps-8K dataset, please cite the corresponding paper:
 
